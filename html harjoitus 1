@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Harjoitus 1</title>
+</head>
+<body>
+<p>Nimeni on Patrik Toivonen</p>
+<p>Kollegani nimi on ...</p>
+<p>Kollegani nimi on ...</p>
+<p>Tänään on 31.10.2021 </p>
+<p>Ja kello on 11.38</p>
+<h4>tulin kouluun autolla</h4>
+<i>ilma oli aurinkoista ja pilvistä</i>
+<h1><i> pääsin koulusta kello 15.00</i></h1>
+<h2><u> olin kotona kello 16.00</u></h2>
+<h3><b> kävin kaupassa kello 18.00</b></h3>
+<p><b> koulu matkani kesti 1h</b></p>
+<p><i>menin junalla kotiin juna matka kesti 15min<i><p>
+<h4>tämä on neljänen tason otsikko</h4>
+<i><u> tämä on tag  </u></i>
+</body>
+</html>
